@@ -29,6 +29,6 @@ storyDescription = input("Do you want a description of the story? 1 = yes 2 = no
 #print a story description if the player wants it
 
 if storyDescription == "1":
-    print("You are a young", genderWord, ", 14 years old. You live in the UDSSR, in a small village to be exact. The UDSSR want to start a rocket to the mars, and they want a couple of teenagers to go with them. You are applying to be on the rocket. I wish you good luck on your journey to mars, i´ll hope that you wont need it.")
+    print("You are a young", genderWord, ", 14 years old. You live in the UDSSR, in a small village to be exact. The UDSSR want to start a rocket to the mars, and they want a couple of teenagers to go with them. You are applying to be on the rocket. I wish you good luck on your journey to mars. Oh, by thw way, its 2369.")
 if storyDescription == "2":
     print("Ok, let's start the game instead.")
