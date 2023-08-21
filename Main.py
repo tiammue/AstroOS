@@ -9,8 +9,14 @@ name = input("What´s your name?")
 #check if name and gender are correct
 
 if gender == 1:
+<<<<<<< HEAD
     gendercorrect=input("You are male, right? 1 = yes 2 = no")
 
+=======
+    print("You are male, right?")
+    input("Press 1 to confirm")
+    
+>>>>>>> e4c4fefac4dfb156b5636c81fcb55150e0d45752
 
 
 
