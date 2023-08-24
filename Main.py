@@ -1,6 +1,6 @@
 import pickle
 
-#print logo hgit 
+#print logo
 
 print("                   ")
 print("                    _____")
