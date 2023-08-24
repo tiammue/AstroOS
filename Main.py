@@ -1,9 +1,7 @@
 import pickle
 
-#print logo
-
-print("                   ")
-print("                    _____")
+#print logo and start up text
+print("Welcome to AstrOS!")
 print("                 __/ o   \\")
 print("                / _      |")
 print(" _______________\\/_      |__________________")
