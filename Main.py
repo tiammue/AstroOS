@@ -1,4 +1,6 @@
 import pickle
+import math
+import random
 
 #print logo and start up text
 print("Welcome to AstrOS!")
