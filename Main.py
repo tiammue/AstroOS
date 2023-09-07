@@ -1,3 +1,5 @@
+
+
 import pickle
 
 #print logo
@@ -28,11 +30,11 @@ with open('Save.pkl', 'rb') as f:
     Username_loaded = pickle.load(f) # deserialize using load()
     input = input("The current User is "+ Username_loaded + ". Is this correct? y/n:")
 
-if input = "y":
+if input == "y":
  Username = Username_loaded
 else:
    input = input("Do you wish to erase all data and login? y/n:")
-   if input = "y":
+   if input == "y":
     Username = input("Input new username:")
    else:
       
