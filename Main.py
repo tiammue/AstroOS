@@ -17,12 +17,10 @@ print("                 |/\\/\\/\\/\\/|")
 
 print("         ©Endboy Interactive Studio 2023")
 print("")
-print("Loading User Accounts...")
-
 #commented out the code below because it gave an error
 #remove the 3 " at the start and end of the error code to uncomment the code
 """
-
+print("Loading User Accounts...")
 
 #Load Username with pickle
 
